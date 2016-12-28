@@ -1,0 +1,5 @@
+It made finding bugs significantly easier as opposed to manual searching, especially in code with many lines.
+
+having access to version control can help in the long run by providing a history of the changes that were made.  We can see what was done, what worked, and if we realize that what we did doesn't work, we can easily go back to the last working version
+
+number one reason for manual saving is so that each save point / commit has a logical purpose.  
