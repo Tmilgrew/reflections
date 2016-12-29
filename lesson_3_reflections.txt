@@ -3,3 +3,5 @@ you use the repository here when sharing work with others.  Keep it local if you
 you pull changes manually, rather than automatically, so that each pull makes sense at a logical checkpoint
 
 a fork clones a repository from someon on github.  a clone is when you clone a repository. and a branch is done onto a repository where you might have more than one branch.
+
+the benefit is so that you know what the last known remote is and it's status
