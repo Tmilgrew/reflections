@@ -1,1 +1,3 @@
 you use the repository here when sharing work with others.  Keep it local if you don't
+
+you pull changes manually, rather than automatically, so that each pull makes sense at a logical checkpoint
